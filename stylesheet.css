@@ -2,12 +2,11 @@ body {
 	background-color: blue;
 }
 h1 {
-	color: red;
+	color: green;
 	font-family: verdana;
 	font-size: 150%;
 	font-weight: bold;
 }
 p {
-	color: green;
 	font-family: verdana;
 }
